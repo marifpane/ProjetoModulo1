@@ -1,0 +1,48 @@
+procedimentos são funções que não possuem retorno
+tem um atalho no vs... alt+shift+F (identa o código todo)
+130g para camomila
+
+1000
+1040
+2040
+2070
+3070
+3
+
+assign
+replace
+
+jogo chaves
+
+personagem chaves{
+fase 1: 'Chaves é um dos participantes que mais se entrosa com a galera, fazendo assim parte de todas as panelinhas. Logo na primeira festa ele escuta a panelinha dos garotos decide bolar um plano onde eles se juntariam para eliminar todas as meninas.'
+"O que Chaves deve fazer?
+1- Decide se juntar com os outros meninos e fazer parte do plano.
+2- Não concorda com a estratégia e decide contar para o resto da casa o que os meninos estão tramando."
+
+Escolha 1 - "Logo de cara o publico pega ranço de você, e no primeiro paredão você foi eliminado com alto índice de rejeição!"
+Escolha 2 - "O resto da casa fica agradecida por você ter alertado do plano. Como gratidão, você passa a ser o protegido da maioria dos participantes!."
+
+fase 2: 'É dia de prova para decidir a alimentação da casa. Graças ao Nhonho, o grupo do Chaves perde e acaba terminando na xepa.' 
+"Qual a reação de Chaves após acabar na xepa?
+1- Com pouca comida disponível para todos, Chaves propõe que o grupo divida igualmente a comida para que ninguém passe fome.
+2- Chaves acha injusto a dividir a comida igualmente entre todos, ja que eles perderam só por causa do Nhonho. Sua proposta é que todos recebam mais comida que o Nhonho e que ele aproveite esses dias de fome para emagrecer!"
+
+Escolha 1 - "Chaves acaba cada vez mais caindo tanto nas graças da casa quanto da população que assiste! Com isso acaba sendo o participante mais querido de todas as edições. 
+Escolha 2 - "Chaves é acusado de gordofobia pelo seu grupo, e passa a ser o próximo indicado ao paredão! Após a indicação ele sai da casa, perde o premio e ainda recebe diversos processos por gordofobia!
+
+fase 3: 'É a última prova para decidir quem estará na grande final e ganhará a tão sonhada viagem para Acapulco. Será uma prova de resistência em que Chaves, onde quem aguentar mais tempo de pé, sem dormir, comer e ir ao naheiro, garantirá sua vaga na final. Depois de 12 horas de disputa, sobra apenas ele e Chiquinha. Chiquinha começa a passar mal e Chaves começa a sentir muita vontade de fazer xixi.'
+"O que Chavez faz:
+1- Faz xixi nas calças, sem que o juri veja e convence Chiquinha a desistir.
+2- Corre ajudar Chiquinha que estava prestes a desmaiar. Ajudar uma amiga em necessidade era mais importante que a vitória.  
+
+Escolha 1 - "Após a repercurssão na internet, o Big Boss faz uma revisão da prova e verifica que realmente Chaves infringiu as regras e com isso ele é desclassificado.
+Escolha 2 - "Chaves acaba perdendo sua vaga imediata na final, mas também ganha de vez o coração do público. Com isso, em seu último paredão, todo o público se junta em mutirões para salvá-lo. Depois de ser salvo do paredão, se inicia a votação do grande campeão e com uma vantagem de 90% dos votos, Chaves é  o novo campeão. Ganhando sua tão sonhada viagem a Acapulco!"
+
+}
+
+
+exercicio 5 colocar || antes de todas as carinhas
+na ultima colocar crase
+||
+`${} {}`

@@ -1,0 +1,65 @@
+body{
+    background: #151320;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-family:fantasy;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.apresentacao{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #a0a0a0;
+    background: #1c1b29;
+    border-radius: 20px;
+}
+
+.personagens{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+    padding-right: 25px;
+    padding-left: 25px;
+    align-items: center;
+    align-content: center;
+    margin-top: 5%;
+}
+
+.Chaves{
+    background: #1c1b29;
+    border-radius: 20%;
+    flex:1;
+}
+
+.Chiquinha{
+    background: #1c1b29;
+    border-radius: 20%;
+    flex:1;
+}
+
+.Kiko{
+    background: #1c1b29;
+    border-radius: 20%;
+    flex:1;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Kiko: hover{
+    transform: scale(1.2);
+}
