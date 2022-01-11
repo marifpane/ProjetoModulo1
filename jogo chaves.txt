@@ -42,7 +42,27 @@ Escolha 2 - "Chaves acaba perdendo sua vaga imediata na final, mas também ganha
 }
 
 
-exercicio 5 colocar || antes de todas as carinhas
-na ultima colocar crase
-||
-`${} {}`
+personagem chiquinha{
+fase 1: 'Após a primeira festa da casa, Chaves conta para as meninas que os garotos da casa querem se juntar para eliminar todas elas. Revoltadas com essa informação, as meninas resolvem ir tirar essa história a limpo.
+Qual a reação de Chiquinha?
+1- Chiquinha é quem lidera o grupo nesse ato.
+2- Chiquinha duvida que a história seja verdade e prefere ficar dormindo.
+
+Escolha 1 - "As garotas da casa agradecem Chiquinha por te-las defendido. Chiquinha passa a ser chamada de "Fada Sensata" e se torna a protegida da casa."
+Escolha 2 - "As meninas descobrem que não só a história era verdade, como também que Chiquinha caçoou delas. Por isso, Chiquinha passa a ser excluida dentro da casa, sendo indicada e elinada no paredão."
+
+fase 2: Mais uma semana na casa, mais uma briga na casa. Porém dessa vez, Chiquinha não tem nada a ver com ela, é uma briga apenas entre o Kiko e o Chaves. O que Chiquinha deve fazer?
+1- Desde que recebeu o apelido de Fada Sensata, Chiquinha passa a se achar a dona da razão, e se intromete em todas as brigas para dar sua opinião, mesmo quando não é solicitada (principalmente nesses casos), e por isso, decidi entrar no meio dessa briga também."
+2- Chiquinha fica na dela, praticando meditação. Ela já teve dores de cabeça demais, e prefere não se meter onde não foi chamada. 
+
+Escolha 1 - "Ninguém gosta de dono da razão. Chiquinha deixou sua fama subir a cabeça e por isso acabou sendo rejeitada pela população."
+Escolha 2 - "Chiquinha faz jus ao seu apelido e se mostra uma pessoa sensata, não se envolvendo em brigas e nem se estressando a toa.
+
+fase 3: Durante sua estadia na casa Chiquinha inicia um relacionamento com o Kiko. O problema é que Kiko é extremamente infantil, faz comentários machistas, quebra diversas regras, fazendo com que a casa perca pontos. Quando outras pessoas da casa faziam coisas como essas do Kiko, Chiquinha sempre criticou, agora por se tratar do seu namorado, qual é a atitude de Chiquinha para essas atitudes de Kiko?
+1- Chiquinha passa pano para todos os comportamentos de Kiko, agindo tal como Dona Florinda fazia. 
+2- Justa como sempre foi durante o jogo, Chiquinha chama a atenção de Kiko para cada um de seus péssimos comportamentos.
+
+Escolha 1 - "Dois pesos e duas medidas. O apelido de fada sensata é substituído pelo de Dona Florinda. Por isso o público decide que a próxima pessoa a ser eliminada é Chiquinha."
+Escolha 2 - "Chiquinha se mostra uma participante sensata e justa, com uma trajetória impecável durante o programa. Por isso quando é a grande final, o público decide por consagrá-la a grande vencedora."
+
+}

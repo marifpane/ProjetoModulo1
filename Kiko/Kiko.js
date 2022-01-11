@@ -12,11 +12,11 @@ function responder1(){
         }
     }
     if (resposta == 1){
-        alert("As garotas da casa agradecem Chiquinha por te-las defendido. Chiquinha passa a ser chamada de Fada Sensata e se torna a protegida da casa.");
+        alert("Quando as garotas descobrem da estratégia, é tiro porrada e bomba para todos os lados. Por não ter participado da estratégia, Kiko fica de fora da briga e não se queima com o público.");
         location.replace("../Kiko/KikoFase2.html");
    
     } else{
-        alert("As meninas descobrem que não só a história era verdade, como também que Chiquinha caçoou delas. Por isso, Chiquinha passa a ser excluida dentro da casa, sendo indicada e eliminada no paredão.");
+        alert("As garotas descobrem a estratégia, se revoltam e resolvem tirar satisfação. Por ser o líder do grupo, Kiko é o primeiro a ser indicado ao paredão e se torna o eliminado da semana!");
         location.replace("../GameOver/GameOverKiko.html");
     }
 }
