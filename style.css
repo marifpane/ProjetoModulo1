@@ -59,7 +59,20 @@ img{
     margin-right: auto;
 }
 
+.Acapulco{
+    background: #1c1b29;
+    border-radius: 20%;
+    flex:1;
+}
 
-.Kiko: hover{
+.Chaves:hover{
+    transform: scale(1.2);
+}
+
+.Chiquinha:hover{
+    transform: scale(1.2);
+}
+
+.Kiko:hover{
     transform: scale(1.2);
 }

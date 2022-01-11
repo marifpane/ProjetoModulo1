@@ -9,3 +9,7 @@ function Chiquinha(){
 function Kiko(){
   location.assign("./Kiko/KikoFase1.html");
 }
+
+function voltar(){
+    location.replace("./index.html")
+}
