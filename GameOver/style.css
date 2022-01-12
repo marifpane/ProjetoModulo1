@@ -84,3 +84,7 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
+
+button:hover{
+    transform: scale(1.1);
+}
