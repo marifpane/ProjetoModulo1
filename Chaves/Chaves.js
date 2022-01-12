@@ -35,7 +35,7 @@ function responder2(){
         location.replace("../Chaves/ChavesFase3.html");
    
     } else{
-        alert("Chaves é acusado de gordofobia pelo seu grupo, e passa a ser o próximo indicado ao paredão! Após a indicação ele sai da casa, perde o premio e ainda recebe diversos processos por gordofobia!");
+        alert("Chaves é acusado de gordofobia pelo seu grupo, e passa a ser o próximo indicado ao paredão! Após a indicação ele sai da casa, perde o prêmio e ainda recebe diversos processos por gordofobia!");
         location.replace("../GameOver/GameOverChaves.html");
     }
 }
@@ -54,7 +54,7 @@ function responder3(){
         location.replace("../GameOver/GameOverChaves.html");
    
     } else{
-        alert("Chaves acaba perdendo sua vaga imediata na final, mas também ganha de vez o coração do público. Com isso, em seu último paredão, todo o público se junta em mutirões para salvá-lo. Depois de ser salvo do paredão, se inicia a votação do grande campeão e com uma vantagem de 90% dos votos, Chaves é  o novo campeão. Ganhando sua tão sonhada viagem a Acapulco!");
+        alert("Chaves acaba perdendo sua vaga imediata na final, mas também ganha de vez o coração do público. Com isso, em seu último paredão, todo o público se junta em multirões para salvá-lo. Depois de ser salvo do paredão, se inicia a votação do grande campeão e com uma vantagem de 90% dos votos, Chaves é  o novo campeão. Ganhando sua tão sonhada viagem a Acapulco!");
         location.replace("../VoceVenceu.html");
     }
 }

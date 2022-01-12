@@ -12,7 +12,7 @@ function responder1(){
         }
     }
     if (resposta == 1){
-        alert("As garotas da casa agradecem Chiquinha por te-las defendido. Chiquinha passa a ser chamada de Fada Sensata e se torna a protegida da casa.");
+        alert("As garotas da casa agradecem Chiquinha por tê-las defendido. Chiquinha passa a ser chamada de Fada Sensata e se torna a protegida da casa.");
         location.replace("../Chiquinha/ChiquinhaFase2.html");
    
     } else{
