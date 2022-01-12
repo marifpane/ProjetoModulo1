@@ -22,8 +22,13 @@ body{
     border-radius: 20px;
 }
 
-.personagens{
-    
+button{
+    background: #a0a0a0;
+    color: #1c1b29;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 20px;
 }
 
 .Chaves{
@@ -37,20 +42,9 @@ body{
     align-items: center;
     align-content: center;
     margin-top: 5%;
+    margin-bottom: 2%;
     background: #1c1b29;
-    border-radius: 20%;
-    flex:1;
-}
-
-.Chiquinha{
-    background: #1c1b29;
-    border-radius: 20%;
-    flex:1;
-}
-
-.Kiko{
-    background: #1c1b29;
-    border-radius: 20%;
+    border-radius: 50%;
     flex:1;
 }
 
@@ -60,7 +54,3 @@ img{
     margin-right: auto;
 }
 
-
-.Kiko: hover{
-    transform: scale(1.2);
-}

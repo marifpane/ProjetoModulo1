@@ -66,3 +66,31 @@ Escolha 1 - "Dois pesos e duas medidas. O apelido de fada sensata é substituíd
 Escolha 2 - "Chiquinha se mostra uma participante sensata e justa, com uma trajetória impecável durante o programa. Por isso quando é a grande final, o público decide por consagrá-la a grande vencedora."
 
 }
+
+personagem Kiko{
+fase 1: A primeira estratégia de Kiko junto com os outros garotos da casa é de se unirem para eliminar as garotas uma a uma. Chaves desde o início se mostra contra e tenta convencer os outros garotos a não fazerem isso. O que Kiko decide fazer?
+1- Kiko escuta Chaves e decide sair fora desse complô.
+2- Kiko ignora os argumentos de Chaves e se torna o lider do grupo dos meninos contra as meninas.
+
+Escolha 1 - "Quando as garotas descobrem da estratégia, é tiro porrada e bomba para todos os lados. Por não ter participado da estratégia, Kiko fica de fora da briga e não se queima com o público."
+Escolha 2 - "As garotas descobrem a estratégia, se revoltam e resolvem tirar satisfação. Por ser o líder do grupo, Kiko é o primeiro a ser indicado ao paredão e se torna o eliminado da semana!"
+
+fase 2: Kiko sempre tem atitudes infantis que acabam fazendo com que a casa toda perca pontos. Chiquinha chama sua atenção para que ele comece a prestar atenção em suas atitudes para não prejudicar mais a casa. Qual a reação de Kiko após essa conversa?
+1- Kiko decide escutar Chiquinha. E apesar de ainda errar, Kiko passa a prestar mais atenção em suas ações de modo a evitar os erros."
+2- Como bom garoto mimado que sempre foi, Kiko não dá a mínima para o que Chiquinha fala e continua não se importanto com seus atos."
+
+Escolha 1 - "Todos na casa percebem como o Kiko está se esforçando para mudar e por isso não colocam ele no paredão da semana."
+Escolha 2 - "Cansados de serem prejudicados pelas atitudes egoistas de Kiko, a casa se une para eliminá-lo na semana."
+
+fase 3: Na última dinamica da casa, estão presos no quarto branco Kiko, Chaves e Chiquinha. Eles devem ficar 3 dias presos no quarto ou aguém deve apertar o botão vermelho e se colocar no paredão. Nas primeiras 3 horas de confinamento, Chaves começa a ter um crise nervosa e pensa em apertar o botão. O que Kiko faz?
+1- Incentiva Chaves a apertar o botão. Ele só quer sair de lá, mas não quer ir ao paredão. 
+2- Tenta acalmar Chaves e convence ele a aguentar mais. Ao perceber que Chaves continua passando mal, Kiko por solidariedade se sacrifica por Chaves e se coloca no paredão.
+
+Escolha 1 - "Kiko se mostra uma pessoa muito maquiavélica, e por isso o resto da casa decide colocá-lo no paredão. E com alto índice de rejeição Kiko é o mais novo eliminado."
+Escolha 2 - "Toda a vila fica impressionada com a trajetória de Kiko dentro da casa, de todos foi o que mais mudou, se tornando uma pessoa melhor. Dessa forma, ele não só volta do paredão do quarto branco, como também é quem acaba ganhando a grande final e a tão disutada viagem."
+
+}
+
+quem vai apresentar
+qual projeto vai ser apresentado 
+os slides

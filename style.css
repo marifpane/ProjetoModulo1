@@ -59,10 +59,11 @@ img{
     margin-right: auto;
 }
 
-.Acapulco{
+footer{
     background: #1c1b29;
-    border-radius: 20%;
-    flex:1;
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Poppins', sans-serif;
 }
 
 .Chaves:hover{
@@ -75,4 +76,29 @@ img{
 
 .Kiko:hover{
     transform: scale(1.2);
+}
+
+button{
+    background: #a0a0a0;
+    color: #1c1b29;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.Acapulco{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+    padding-right: 25px;
+    padding-left: 25px;
+    align-items: center;
+    align-content: center;
+    margin-top: 5%;
+    background: #1c1b29;
+    border-radius: 20%;
+    flex:1;
 }
