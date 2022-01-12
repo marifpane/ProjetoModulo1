@@ -39,18 +39,21 @@ body{
     background: #1c1b29;
     border-radius: 20%;
     flex:1;
+    transition-duration: 0.5s;
 }
 
 .Chiquinha{
     background: #1c1b29;
     border-radius: 20%;
     flex:1;
+    transition-duration: 0.5s;
 }
 
 .Kiko{
     background: #1c1b29;
     border-radius: 20%;
     flex:1;
+    transition-duration: 0.5s;
 }
 
 img{
