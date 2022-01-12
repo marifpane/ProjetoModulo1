@@ -1,13 +1,13 @@
 function Chaves(){
-  location.assign("./Chaves/ChavesFase1.html");
+  location.replace("./Chaves/ChavesFase1.html");
 }
 
 function Chiquinha(){
-  location.assign("./Chiquinha/ChiquinhaFase1.html");
+  location.replace("./Chiquinha/ChiquinhaFase1.html");
 }
 
 function Kiko(){
-  location.assign("./Kiko/KikoFase1.html");
+  location.replace("./Kiko/KikoFase1.html");
 }
 
 function voltar(){
