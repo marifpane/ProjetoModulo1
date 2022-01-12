@@ -43,7 +43,7 @@ button{
     align-content: center;
     margin-top: 5%;
     background: #1c1b29;
-    border-radius: 20%;
+    border-radius: 50%;
     flex:1;
 }
 
@@ -59,7 +59,7 @@ button{
     align-content: center;
     margin-top: 5%;
     background: #1c1b29;
-    border-radius: 20%;
+    border-radius: 50%;
     flex:1;
 }
 
@@ -75,7 +75,7 @@ button{
     align-content: center;
     margin-top: 5%;
     background: #1c1b29;
-    border-radius: 20%;
+    border-radius: 50%;
     flex:1;
 }
 
