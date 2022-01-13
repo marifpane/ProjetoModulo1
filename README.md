@@ -14,5 +14,5 @@ Requisitos necessários:<br>
 
 Vale comentar que para esse jogo, na linguagem Javascript foram utilizados a estrutura de repetição "While" até que o usuário digitasse as opções válidas, a estrutura condicional If/IfElse para a escolha de ações e por fim o location.replace linkando as fases.
 
-<img src="InicioJogo.jpeg" height="310">
+<img src="InicioJogo.jpeg">
 
