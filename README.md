@@ -11,3 +11,5 @@ Requisitos necessários:<br>
 - Funções devem ser criadas e utilizadas para uma maior e melhor legibilidade do código;<br>
 - Fornecer o projeto desenvolvido em repositório no Github;<br>
 - Os grupos devem organizar uma apresentação (slides) que será utilizada no dia e entregue posteriormente;
+
+<img src="InicioJogo.jpg" height="310">
